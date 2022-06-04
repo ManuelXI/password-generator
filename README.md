@@ -8,5 +8,6 @@ Created with:
 - CSS
 - JS
 
-  ![](images%5CScreenshot.png)
-  [](images%5CPassword%20Generator%20Demo.mp4)
+
+https://user-images.githubusercontent.com/65256184/172017095-3330ff07-07dd-4121-a576-a324dc2f0e58.mp4
+
